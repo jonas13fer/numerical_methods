@@ -1,5 +1,5 @@
 # Numerical Methods
-Includes a collection of numerical analysis methods in C/C++ [^1].
+Includes a collection of numerical analysis methods in C/C++[^1].
 
  - Item Bissection;
  - Item Newton-Raphson
